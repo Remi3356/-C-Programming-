@@ -1,4 +1,4 @@
-// program to compute salary increament
+// program to get salary increament for employees
 #include <iostream>
 
 using namespace std;
