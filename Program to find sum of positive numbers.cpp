@@ -1,4 +1,4 @@
-// program to find the sum of positive numbers
+// program to find the sum of positive numbers using the while loop
 //the loop ends if the user inputs a negative number
 
 #include <iostream>
