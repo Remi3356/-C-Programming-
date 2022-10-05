@@ -1,4 +1,4 @@
-//This is a program to calculate the sum of inbetween certain numbers of the users choice.
+//This is a program to calculate the sum of inbetween certain numbers of the users choice using the for loop.
 
 #include <iostream>
 
